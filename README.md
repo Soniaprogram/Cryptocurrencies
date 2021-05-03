@@ -3,7 +3,7 @@
 ## Purpose
 
 
-Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. Using unsupervised learning and my knowledge as to how to process data, how to cluster, how to reduce my dimensions, and how to reduce the principal components using PCA, I have created a report including what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. This report will provide an analysis for clients preparing to get into the cryptocurrency market.
+Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. Using unsupervised learning and my knowledge of processing data, how to cluster, how to reduce my dimensions, and how to reduce the principal components using PCA, I have created a report including what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. This report will provide an analysis for clients preparing to get into the cryptocurrency market.
 
 #### Deliverable 1: Preprocessing the Data for PCA
 Using my knowledge of Pandas, I preprocessed the dataset in order to perform PCA in Deliverable 2.
