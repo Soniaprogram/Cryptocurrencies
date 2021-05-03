@@ -15,4 +15,4 @@ Using my knowledge of the K-means algorithm, I created an elbow curve using hvPl
 Using my knowledge of creating scatter plots with Plotly Express and hvplot, I visualized the distinct groups that corresponded to the three principal components I created in Deliverable 2, then I created a table with all the currently tradable cryptocurrencies using the hvplot.table() function.
 
 
-Reference 
+Reference crypto_clustering.ipynb
